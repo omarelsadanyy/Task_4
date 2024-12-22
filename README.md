@@ -28,6 +28,6 @@ How to Run
 
 Install Dart (guide).
 
-Save the program as grocery_tax_calculator.dart.
+Save the program as Calculate_Grocery.dart.
 
-Run it in the terminal: dart grocery_tax_calculator.dart
+Run it in the terminal: dart Calculate_Grocery.dart
